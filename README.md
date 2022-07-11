@@ -3,8 +3,9 @@
     <li> My name is Kun-Ho Kim. </li> 
     <li> I want to work with passionate and smart people in the tech industry. </li>
     <li> I am interested in learning everything about software development. </li>
-    <li><a href="https://personal-website-amber-nu.vercel.app/">My Portfolio Website</a></li>
   </ul>
+  
+  <a href="https://personal-website-amber-nu.vercel.app/">My Portfolio Website</a>
 
 
 <!---
